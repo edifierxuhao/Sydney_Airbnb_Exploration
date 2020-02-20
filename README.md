@@ -11,10 +11,10 @@
 ## Installation <a name="installation"></a>
 
 Besides the Anaconda distribution of Python, in order to plot Points on map, and add some base map, the following libraries are needed:
-**geopandas**, can be installed using `pip install geopandas`
-**shapely**, used for creating polygon or Points, can be installed using `pip install shapely`
-**contextily**,used for adding base map, can be installed using `conda install contextily --channel conda-forge`
-**geoplot**, used for plot heatmap on a map, can be installed using `conda install geoplot -c conda-forge`
+- **geopandas**, can be installed using `pip install geopandas`
+- **shapely**, used for creating polygon or Points, can be installed using `pip install shapely`
+- **contextily**,used for adding base map, can be installed using `conda install contextily --channel conda-forge`
+- **geoplot**, used for plot heatmap on a map, can be installed using `conda install geoplot -c conda-forge`
 
 ## Project Motivation<a name="motivation"></a>
 
