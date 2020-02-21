@@ -35,7 +35,7 @@ There are several `aus_poas.*` file, used for ploting map, was downloaded from [
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/  ).
+The main findings of the code can be found at the post available [here](https://medium.com/@edifierxuhao123/how-to-run-an-airbnb-business-in-sydney-eed9b30d6c40).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
